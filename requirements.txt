@@ -2,4 +2,3 @@ streamlit
 azureml.core
 azureml
 setuptools
-standard-imghdr
