@@ -1,3 +1,4 @@
 streamlit
 azureml.core
 azureml
+setuptools 
